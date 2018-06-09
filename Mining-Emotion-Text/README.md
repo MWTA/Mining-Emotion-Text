@@ -1,0 +1,1 @@
+# Curso de Mineração de Emoções em Textos
